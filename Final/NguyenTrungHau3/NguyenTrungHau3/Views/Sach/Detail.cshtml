@@ -1,0 +1,98 @@
+﻿@model NguyenTrungHau3.Models.Sach
+
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Chi tết Sách</h2>
+
+<div>
+    <h4>Sach</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Mã Loại
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.maloai)
+        </dd>
+
+        <dt>
+            Thể loại
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TheLoai.tenloai)
+        </dd>
+
+        <dt>
+            Tên Sách
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tensach)
+        </dd>
+
+        <dt>
+            Mô tả
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.mota)
+        </dd>
+        <dt>
+            Hình
+        </dt>
+
+        <dd>
+            <div class="form-group">
+
+                <div class="col-md-10">
+
+
+                    <img src="@Model.hinh" id="pictureUpload" />
+                </div>
+            </div>
+        </dd>
+
+        <dt>
+            Giá bán
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.giaban)
+        </dd>
+
+        <dt>
+            Ngày cập nhập
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaycapnhat)
+        </dd>
+
+        <dt>
+            Số lượng tồn
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.soluongton)
+        </dd>
+        <div class="pull-right">
+
+
+            <div class="DatMua">
+                <a class="btn btn-success" href="@Url.Action("ThemGioHang", "GioHang",
+                         new { id = Model.masach, @strURL = Request.Url.ToString() })">Đặt mua</a>
+            </div>
+
+        </div>
+    </dl>
+
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.masach }) |
+    @Html.ActionLink("Back to List", "ListSach")
+</p>

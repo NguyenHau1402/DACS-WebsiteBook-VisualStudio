@@ -1,0 +1,77 @@
+﻿@model NguyenTrungHau3.Models.KhachHang
+
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Thông tin chi tiết</h2>
+
+<div>
+    <h4></h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            Họ tên:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hoten)
+        </dd>
+
+        <dt>
+            Tên đăng nhập:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.tendangnhap)
+        </dd>
+
+        <dt>
+            Mật khẩu:
+        </dt>
+
+
+        <dd>
+            @Html.DisplayFor(model => model.matkhau)
+        </dd>
+
+        <dt>
+            Email:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            Địa chỉ:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diachi)
+        </dd>
+
+        <dt>
+            Điện thoại:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.dienthoai)
+        </dd>
+
+        <dt>
+            Ngày sinh:
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ngaysinh)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.makh }) |
+    @Html.ActionLink("Back to List", "NguoiDung")
+</p>

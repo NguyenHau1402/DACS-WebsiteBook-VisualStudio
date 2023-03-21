@@ -1,0 +1,411 @@
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll.config
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.pdb
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe.config
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.rsp
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe.config
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.rsp
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.AppContext.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Console.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Http.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe.config
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.rsp
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\WebGrease.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.xml
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.xml
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.xml
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.xml
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.xml
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.xml
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.pdb
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.AssemblyReference.cache
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CoreCompileInputs.cache
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CopyComplete
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.dll
+C:\Users\Eir\source\repos\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.pdb
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll.config
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.pdb
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe.config
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.rsp
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe.config
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.rsp
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.AppContext.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Console.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Http.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe.config
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.rsp
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\WebGrease.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.pdb
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.AssemblyReference.cache
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CoreCompileInputs.cache
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CopyComplete
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.pdb
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.Mvc.dll
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.xml
+C:\Users\Eir\Downloads\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.Mvc.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll.config
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.pdb
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe.config
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.rsp
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe.config
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.rsp
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.AppContext.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Console.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Http.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe.config
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.rsp
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.Mvc.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\WebGrease.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.Mvc.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.pdb
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.AssemblyReference.cache
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CoreCompileInputs.cache
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CopyComplete
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.dll
+C:\Users\Eir\Desktop\t3\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.pdb
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll.config
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.pdb
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe.config
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.rsp
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe.config
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.rsp
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.AppContext.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Console.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Http.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe.config
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.rsp
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.Mvc.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\WebGrease.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.Mvc.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.pdb
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.AssemblyReference.cache
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CoreCompileInputs.cache
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CopyComplete
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.dll
+C:\Users\Eir\Desktop\t3\Buổi sáng\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.pdb
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll.config
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\NguyenTrungHau3.pdb
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.exe.config
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csc.rsp
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.exe.config
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\csi.rsp
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.AppContext.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Collections.Immutable.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Console.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Globalization.Calendars.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Http.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Net.Sockets.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.ValueTuple.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.exe.config
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\vbc.rsp
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\roslyn\VBCSCompiler.exe.config
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.Web.Infrastructure.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.Mvc.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\WebGrease.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\PagedList.Mvc.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Helpers.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Mvc.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Optimization.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.Razor.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Deployment.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\System.Web.WebPages.Razor.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\Newtonsoft.Json.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\Antlr3.Runtime.pdb
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.AssemblyReference.cache
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CoreCompileInputs.cache
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.csproj.CopyComplete
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.dll
+D:\Final\NguyenTrungHau3\NguyenTrungHau3\obj\Debug\NguyenTrungHau3.pdb

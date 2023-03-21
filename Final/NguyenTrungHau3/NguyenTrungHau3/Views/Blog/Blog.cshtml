@@ -1,0 +1,138 @@
+﻿
+@{
+    ViewBag.Title = "Blog";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Blog</h2>
+
+<div class="blog_post_area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+                <div class="breadcrumb-single blog_top_area">
+                    <ul id="breadcrumbs">
+                        <li><a href="https://localhost:44354/Home/Index"><i class="fa fa-home"></i>Trang chủ</a></li>
+                        <li><span>Ι</span></li>
+                        <li>Blog</li>
+                    </ul>
+                </div>
+                <div class="blog_list_area">
+                    <div class="single_blog_area">
+                        <img src="~/Content/images/slider.jpg" alt="" />
+                    </div>
+                  
+                </div>
+                <div class="blog_details_area">
+                    <i class="fa fa-picture-o"></i>
+                    <div class="blog_details_list">
+                        <ul class="blog_author">
+                            <li><i class="fa fa-folder-open-o"></i> <a href="">blog</a></li>
+                            <li><i class="fa fa-user"></i> Shirwi</li>
+                            <li><i class="fa fa-eye"></i> Lượt xem: 1616</li>
+                            <li>
+                                <div class="star_blog">
+                                    Đánh giá: 
+                                    <strong> 100000 điểm</strong>
+                                    
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="blog_info_details">
+                        <h2><a class="blog_info_heading" href="#">Sách quan trọng như thế nào?</a></h2>
+                        <p class="blog_paragrap_style">Sách là nguồn tri thức vô tận, đã được trau truốt, sửa chữa biết bao nhiêu lần trước khi lên kệ. Nó đem lại cho chúng ta rất nhiều lợi ích, thông tin cũng như niềm vui.</p>
+                        <p class="blog_paragrap_style">Sách giúp chúng ta mở mang tri thức, giúp chúng ta giải trí... Không những thế, sách còn kể lại cho chúng ta biết bao nhiêu là câu truyện khác nhau... Cuộc sống đời thường, cuộc sống xa hoa, khốn khổ hay cuộc phiêu lưu nào đó... Sách giúp chúng ta hóa thân thành mọi con người, mọi tính cách.. giúp ta có thể tận hưởng được cuộc sống trọn vẹn hơn, dễ giàng giúp ta phiêu lưu, tru du khắp thế giới...</p>
+                        <blockquote>
+                            <p>Sách là một người bạn không thể thiếu đối với mỗi con người chúng ta. Nếu chỉ có một số tiền ít ỏi, chúng ta chả thể đi du lịch hay vòng quanh thế giới. Nhưng với số tiền đó, chúng ta có thể hóa thân thành biết bao con người, hóa thành đôi mắt nhìn ngắm thế giới muôn màu xinh đẹp biết bao... Sách còn được coi là liều thuốc cười, đem lại tiếng cười cho muôn nơi, đem lại niềm hạnh phúc, cảm giac dễ chịu... Không những vậy, sách còn giúp chúng ta cảm thông với nhau hơn, giúp ta có được góc nhìn khách quan hơn về thế giới bên ngoài. Thế giới bao la rộng lơn, sao chúng ta có thể đi hết được, nhưng... chúng ta có thể tìm thấy được những điều đó, những thú lạ đó ở trong những con chữ đơn xơ, những con chữ đem lại niềm hạnh phúc cho mỗi con người...</p>
+                        </blockquote>
+                        <p class="blog_paragrap_style">Sách giấy càng ngày càng ít được tiêu thụ hơn do sự phát triển của công nghệ, nhưng nó vẫn giữ được những nét riêng biệt của mình. Cảm giác lật từng trang chữ... nào đâu mà có thể thay thế được bằng những cú lướt lướt ngón tay cơ chứ. VỪa đọc, vừa nghe thoang thoảng mùi giấy, cảm giác dễ chịu, nhè nhẹ luôn ở quanh...</p>
+                        <p class="blog_paragrap_style">Sách là một thứ không thể thiếu đối với mỗi con người. Liên hệ với chúng tôi ngay, để tìm và đọc được những thông tin bổ ích, để có thể tru du khắp muôn nơi trên thế giới.</p>
+                    </div>
+                </div>
+                <div class="blog_social_icon">
+                    <img src="~/Content/images/shareicon.png" alt="" />
+                </div>
+                <div class="blog_add_comment_area">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="comment_text">
+                                <h2>Thêm bình luận</h2>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="comment_name">
+                                <input type="text" placeholder="Tên">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="comment_email">
+                                <input type="text" placeholder="E-mail">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="comment_title">
+                                <input type="text" placeholder="Tiêu đề">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="comment_textarea">
+                                <textarea cols="65" rows="8"></textarea>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="send_button">
+                                <input type="submit" value="Gửi">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="blog_right_sidebar">
+                    <h2 class="sp_module_title"><span>Bản tin</span></h2>
+                    <div class="sub_area">
+                        <form action="https://localhost:44354/NguoiDung/DangKy">
+                            <input type="text" placeholder="E-mail">
+                            <input type="submit" value="Đăng ký">
+                        </form>
+                    </div>
+                    <div class="latest_posts">
+                        <h3 class="sp_module_title sp_module_title_rv"><span>Bài đăng mới nhất</span></h3>
+                        <div class="single_l_post">
+                            <a href="#">Sách quan trọng như thế nào?</a>
+                            <p>20/05/2022</p>
+                        </div>
+                        <div class="single_l_post">
+                            <a href="#">Nhưng thông tin sách mang lại</a>
+                            <p>5/05/2022</p>
+                        </div>
+                        <div class="single_l_post">
+                            <a href="#">Cuộc gặp gỡ định mệnh ở gian hàng?</a>
+                            <p>25/04/2022</p>
+                        </div>
+                        <div class="single_l_post">
+                            <a href="#">Khó có thể đến thư viện tìm sách?</a>
+                            <p>20/03/2022</p>
+                        </div>
+                        <div class="single_l_post">
+                            <a href="#">Sách đã giúp tôi rất nhiều</a>
+                            <p>09/07/2021</p>
+                        </div>
+                        <div class="single_l_post">
+                            <a href="#">Mất nàng</a>
+                            <p>08/05/2019</p>
+                        </div>
+                        <div class="single_l_post">
+                            <a href="#">Bước đầu dẫn chân vào con chữ?</a>
+                            <p>07/10/2018</p>
+                        </div>
+                    </div>
+                    <div class="add_r_sidebar">
+                        <p class="banner_block"><a href="#"><img alt="" src="~/Content/images/6.png"></a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
